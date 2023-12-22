@@ -26,5 +26,3 @@ O objetivo desta nota é destacar e organizar as informações relacionadas à m
 ## Interpretação das Distâncias
 
 Quanto menor a distância do cluster, mais semelhantes são os clusters, enquanto uma distância maior indica maior dissimilaridade entre os clusters.
-
-Este texto reformulado respeita o formato Markdown, proporcionando uma leitura mais estruturada e fácil de seguir.
